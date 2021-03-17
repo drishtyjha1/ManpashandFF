@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "926347648452",
+    "project_id": "manpashandff",
+    "storage_bucket": "manpashandff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:926347648452:android:3ed4b487dc22633f8d1891",
+        "android_client_info": {
+          "package_name": "com.example.manpashandff"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "926347648452-jt5c4o63iin2nuj6rvnp4kildk3o26l5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAc1QRryrXsRj29cgLG0aJmZn9REjF9ESU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "926347648452-jt5c4o63iin2nuj6rvnp4kildk3o26l5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
